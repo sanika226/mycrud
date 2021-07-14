@@ -1,0 +1,24 @@
+.loginbtn{
+    margin-left:100px;
+}
+
+.loginbtn .btn{
+    color: rgb(13, 14, 9);
+    font-size: larger;
+    font-family: inherit;
+    font-weight: bold;
+    background-color: rgb(209, 138, 162);
+
+}
+.navbar{
+   background-color: rgb(212, 119, 131);
+   
+}
+  a {
+    color: rgb(20, 20, 18);
+    font-size: larger;
+    font-family:inherit;
+}
+a:hover{
+    color: rgb(114, 117, 114);
+} 
